@@ -1,4 +1,5 @@
 def my_print(text):
     print("This is the text:", text)
 
-my_print("rsgvsfsv")
+def real_fix(number):
+    print(number)
