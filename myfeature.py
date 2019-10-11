@@ -1,5 +1,5 @@
 def my_print(text):
-    print("This is the text:", text)
-
+    print("this is my text:", text.upper())
+    
 def real_fix(number):
     print(number)
