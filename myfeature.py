@@ -1,4 +1,6 @@
 def my_print(text):
-    print("This is the text:", text)
+    return "this is my text"
 
-my_print("rsgvsfsv")
+
+def my_fix(text):
+    print("this is my fixed test:", text.upper())
